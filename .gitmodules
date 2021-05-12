@@ -83,3 +83,9 @@
 	url = https://github.com/edwindj/ffbase
 	shallow = true
 	registered = true
+[submodule "dcmodify"]
+	path = dcmodify
+	url = https://github.com/data-cleaning/dcmodify
+	shallow = true
+	subdir = pkg
+	registered = false

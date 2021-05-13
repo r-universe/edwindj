@@ -8,35 +8,29 @@
 	url = https://github.com/edwindj/cbsodatar
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "chunked"]
 	path = chunked
 	url = https://github.com/edwindj/chunked
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "daff"]
 	path = daff
 	url = https://github.com/edwindj/daff
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ffbase"]
 	path = ffbase
 	url = https://github.com/edwindj/ffbase
 	shallow = true
 	subdir = pkg
 	registered = true
-	oncran = true
 [submodule "sdcSpatial"]
 	path = sdcSpatial
 	url = https://github.com/edwindj/sdcspatial
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "whisker"]
 	path = whisker
 	url = https://github.com/edwindj/whisker
 	shallow = true
 	registered = true
-	oncran = true

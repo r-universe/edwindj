@@ -1,0 +1,26 @@
+[
+  {
+    "package": "cbsodataR",
+    "oncran": true
+  },
+  {
+    "package": "chunked",
+    "oncran": true
+  },
+  {
+    "package": "daff",
+    "oncran": true
+  },
+  {
+    "package": "ffbase",
+    "oncran": true
+  },
+  {
+    "package": "sdcSpatial",
+    "oncran": true
+  },
+  {
+    "package": "whisker",
+    "oncran": true
+  }
+]

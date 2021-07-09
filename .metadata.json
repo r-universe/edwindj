@@ -1,26 +1,62 @@
 [
   {
-    "package": "cbsodataR",
-    "oncran": true
-  },
-  {
     "package": "chunked",
     "oncran": true
   },
   {
-    "package": "daff",
+    "package": "whisker",
     "oncran": true
   },
   {
-    "package": "ffbase",
-    "oncran": true
+    "package": "rvee"
   },
   {
     "package": "sdcSpatial",
     "oncran": true
   },
   {
-    "package": "whisker",
+    "package": "editrules",
+    "oncran": true
+  },
+  {
+    "package": "errorlocate",
+    "oncran": true
+  },
+  {
+    "package": "validatetools",
+    "oncran": true
+  },
+  {
+    "package": "validatedb",
+    "oncran": true
+  },
+  {
+    "package": "dcmodifydb"
+  },
+  {
+    "package": "dcmodifydt"
+  },
+  {
+    "package": "nlgeocoder",
+    "oncran": true
+  },
+  {
+    "package": "docopt",
+    "oncran": true
+  },
+  {
+    "package": "validatesuggest"
+  },
+  {
+    "package": "daff",
+    "oncran": true
+  },
+  {
+    "package": "cbsodataR",
+    "oncran": true
+  },
+  {
+    "package": "ffbase",
     "oncran": true
   }
 ]

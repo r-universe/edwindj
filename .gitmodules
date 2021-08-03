@@ -78,6 +78,11 @@
 	url = https://github.com/edwindj/cbsodataR
 	shallow = true
 	registered = true
+[submodule "scrollytell"]
+	path = scrollytell
+	url = https://github.com/statistiekcbs/scrollytell
+	shallow = true
+	registered = true
 [submodule "cbsodata4"]
 	path = cbsodata4
 	url = https://github.com/statistiekcbs/cbsodata4

@@ -56,6 +56,9 @@
     "oncran": true
   },
   {
+    "package": "scrollytell"
+  },
+  {
     "package": "cbsodata4"
   },
   {

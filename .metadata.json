@@ -37,8 +37,7 @@
     "package": "dcmodifydt"
   },
   {
-    "package": "nlgeocoder",
-    "oncran": true
+    "package": "nlgeocoder"
   },
   {
     "package": "docopt",

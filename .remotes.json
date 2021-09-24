@@ -2,13 +2,6 @@
   {
     "package": "dcmodify",
     "url": "https://github.com/data-cleaning/dcmodify",
-    "via": ["dcmodifydb"],
-    "subdir": "pkg",
-    "from": "dcmodifydb"
-  },
-  {
-    "package": "dcmodify",
-    "url": "https://github.com/data-cleaning/dcmodify",
     "via": ["dcmodifydt"],
     "subdir": "pkg",
     "from": "dcmodifydt"

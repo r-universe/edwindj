@@ -31,7 +31,8 @@
     "oncran": true
   },
   {
-    "package": "dcmodifydb"
+    "package": "dcmodifydb",
+    "oncran": false
   },
   {
     "package": "dcmodifydt"

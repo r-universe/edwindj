@@ -32,7 +32,7 @@
   },
   {
     "package": "dcmodifydb",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "dcmodifydt"

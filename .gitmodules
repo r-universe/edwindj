@@ -48,6 +48,11 @@
 	url = https://github.com/data-cleaning/dcmodifydb
 	shallow = true
 	registered = true
+[submodule "dcmodifydt"]
+	path = dcmodifydt
+	url = https://github.com/data-cleaning/dcmodifydt
+	shallow = true
+	registered = true
 [submodule "nlgeocoder"]
 	path = nlgeocoder
 	url = https://github.com/uRosConf/nlgeocoder

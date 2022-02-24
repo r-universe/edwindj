@@ -1,7 +1,6 @@
 [
   {
-    "package": "chunked",
-    "oncran": true
+    "package": "chunked"
   },
   {
     "package": "whisker",

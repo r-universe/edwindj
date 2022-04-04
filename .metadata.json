@@ -62,7 +62,6 @@
     "package": "cbsodata4"
   },
   {
-    "package": "ffbase",
-    "oncran": true
+    "package": "ffbase"
   }
 ]

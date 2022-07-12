@@ -16,7 +16,7 @@
   },
   {
     "package": "editrules",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "errorlocate",

@@ -32,7 +32,7 @@
   },
   {
     "package": "dcmodifydb",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "dcmodifydt"
@@ -42,7 +42,7 @@
   },
   {
     "package": "docopt",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "validatesuggest"

@@ -27,12 +27,10 @@
     "oncran": true
   },
   {
-    "package": "validatedb",
-    "oncran": true
+    "package": "validatedb"
   },
   {
-    "package": "dcmodifydb",
-    "oncran": true
+    "package": "dcmodifydb"
   },
   {
     "package": "dcmodifydt"

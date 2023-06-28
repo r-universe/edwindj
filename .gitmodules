@@ -1,101 +1,63 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/edwindj/universe
-	shallow = true
 	branch = HEAD
 [submodule "chunked"]
 	path = chunked
 	url = https://github.com/edwindj/chunked
-	shallow = true
-	registered = true
 [submodule "whisker"]
 	path = whisker
 	url = https://github.com/edwindj/whisker
-	shallow = true
-	registered = true
 [submodule "rvee"]
 	path = rvee
 	url = https://github.com/edwindj/rvee
-	shallow = true
-	registered = true
 [submodule "sdcSpatial"]
 	path = sdcSpatial
 	url = https://github.com/edwindj/sdcSpatial
-	shallow = true
-	registered = true
 [submodule "editrules"]
 	path = editrules
 	url = https://github.com/data-cleaning/editrules
-	shallow = true
-	registered = true
 [submodule "errorlocate"]
 	path = errorlocate
 	url = https://github.com/data-cleaning/errorlocate
-	shallow = true
-	registered = true
 [submodule "validatetools"]
 	path = validatetools
 	url = https://github.com/data-cleaning/validatetools
-	shallow = true
-	registered = true
 [submodule "validatedb"]
 	path = validatedb
 	url = https://github.com/data-cleaning/validatedb
-	shallow = true
-	registered = true
 [submodule "dcmodifydb"]
 	path = dcmodifydb
 	url = https://github.com/data-cleaning/dcmodifydb
-	shallow = true
-	registered = true
 [submodule "dcmodifydt"]
 	path = dcmodifydt
 	url = https://github.com/data-cleaning/dcmodifydt
-	shallow = true
-	registered = true
 [submodule "nlgeocoder"]
 	path = nlgeocoder
 	url = https://github.com/uRosConf/nlgeocoder
-	shallow = true
-	registered = true
 [submodule "docopt"]
 	path = docopt
 	url = https://github.com/docopt/docopt.R
-	shallow = true
-	registered = true
 [submodule "validatesuggest"]
 	path = validatesuggest
 	url = https://github.com/edwindj/validatesuggest
-	shallow = true
-	registered = true
 [submodule "daff"]
 	path = daff
 	url = https://github.com/edwindj/daff
-	shallow = true
-	registered = true
 [submodule "cbsodataR"]
 	path = cbsodataR
 	url = https://github.com/edwindj/cbsodataR
-	shallow = true
-	registered = true
 [submodule "scrollytell"]
 	path = scrollytell
 	url = https://github.com/statistiekcbs/scrollytell
-	shallow = true
-	registered = true
 [submodule "cbsodata4"]
 	path = cbsodata4
 	url = https://github.com/statistiekcbs/cbsodata4
-	shallow = true
-	registered = true
 [submodule "ffbase"]
 	path = ffbase
 	url = https://github.com/edwindj/ffbase
-	shallow = true
-	registered = true
 [submodule "dcmodify"]
 	path = dcmodify
 	url = https://github.com/data-cleaning/dcmodify
-	shallow = true
 	subdir = pkg
 	registered = false

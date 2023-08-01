@@ -2,62 +2,62 @@
 	path = .registry
 	url = https://github.com/edwindj/universe
 	branch = HEAD
+[submodule "cbsodata4"]
+	path = cbsodata4
+	url = https://github.com/statistiekcbs/cbsodata4
+[submodule "cbsodataR"]
+	path = cbsodataR
+	url = https://github.com/edwindj/cbsodataR
 [submodule "chunked"]
 	path = chunked
 	url = https://github.com/edwindj/chunked
-[submodule "whisker"]
-	path = whisker
-	url = https://github.com/edwindj/whisker
-[submodule "rvee"]
-	path = rvee
-	url = https://github.com/edwindj/rvee
-[submodule "sdcSpatial"]
-	path = sdcSpatial
-	url = https://github.com/edwindj/sdcSpatial
-[submodule "editrules"]
-	path = editrules
-	url = https://github.com/data-cleaning/editrules
-[submodule "errorlocate"]
-	path = errorlocate
-	url = https://github.com/data-cleaning/errorlocate
-[submodule "validatetools"]
-	path = validatetools
-	url = https://github.com/data-cleaning/validatetools
-[submodule "validatedb"]
-	path = validatedb
-	url = https://github.com/data-cleaning/validatedb
+[submodule "daff"]
+	path = daff
+	url = https://github.com/edwindj/daff
+[submodule "dcmodify"]
+	path = dcmodify
+	url = https://github.com/data-cleaning/dcmodify
+	subdir = pkg
+	registered = false
 [submodule "dcmodifydb"]
 	path = dcmodifydb
 	url = https://github.com/data-cleaning/dcmodifydb
 [submodule "dcmodifydt"]
 	path = dcmodifydt
 	url = https://github.com/data-cleaning/dcmodifydt
-[submodule "nlgeocoder"]
-	path = nlgeocoder
-	url = https://github.com/uRosConf/nlgeocoder
 [submodule "docopt"]
 	path = docopt
 	url = https://github.com/docopt/docopt.R
-[submodule "validatesuggest"]
-	path = validatesuggest
-	url = https://github.com/edwindj/validatesuggest
-[submodule "daff"]
-	path = daff
-	url = https://github.com/edwindj/daff
-[submodule "cbsodataR"]
-	path = cbsodataR
-	url = https://github.com/edwindj/cbsodataR
-[submodule "scrollytell"]
-	path = scrollytell
-	url = https://github.com/statistiekcbs/scrollytell
-[submodule "cbsodata4"]
-	path = cbsodata4
-	url = https://github.com/statistiekcbs/cbsodata4
+[submodule "editrules"]
+	path = editrules
+	url = https://github.com/data-cleaning/editrules
+[submodule "errorlocate"]
+	path = errorlocate
+	url = https://github.com/data-cleaning/errorlocate
 [submodule "ffbase"]
 	path = ffbase
 	url = https://github.com/edwindj/ffbase
-[submodule "dcmodify"]
-	path = dcmodify
-	url = https://github.com/data-cleaning/dcmodify
-	subdir = pkg
-	registered = false
+[submodule "nlgeocoder"]
+	path = nlgeocoder
+	url = https://github.com/uRosConf/nlgeocoder
+[submodule "rvee"]
+	path = rvee
+	url = https://github.com/edwindj/rvee
+[submodule "scrollytell"]
+	path = scrollytell
+	url = https://github.com/statistiekcbs/scrollytell
+[submodule "sdcSpatial"]
+	path = sdcSpatial
+	url = https://github.com/edwindj/sdcSpatial
+[submodule "validatedb"]
+	path = validatedb
+	url = https://github.com/data-cleaning/validatedb
+[submodule "validatesuggest"]
+	path = validatesuggest
+	url = https://github.com/edwindj/validatesuggest
+[submodule "validatetools"]
+	path = validatetools
+	url = https://github.com/data-cleaning/validatetools
+[submodule "whisker"]
+	path = whisker
+	url = https://github.com/edwindj/whisker

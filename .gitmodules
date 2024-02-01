@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/edwindj/universe
+	url = https://github.com/edwindj/edwindj.r-universe.dev
 	branch = HEAD
 [submodule "cbsodata4"]
 	path = cbsodata4

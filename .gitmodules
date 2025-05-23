@@ -40,6 +40,9 @@
 [submodule "nlgeocoder"]
 	path = nlgeocoder
 	url = https://github.com/uRosConf/nlgeocoder
+[submodule "qbinplots"]
+	path = qbinplots
+	url = https://github.com/edwindj/qbinplots
 [submodule "rvee"]
 	path = rvee
 	url = https://github.com/edwindj/rvee
@@ -49,6 +52,9 @@
 [submodule "sdcSpatial"]
 	path = sdcSpatial
 	url = https://github.com/edwindj/sdcSpatial
+[submodule "sdmxdata"]
+	path = sdmxdata
+	url = https://github.com/edwindj/sdmxdata
 [submodule "validatedb"]
 	path = validatedb
 	url = https://github.com/data-cleaning/validatedb
@@ -61,3 +67,6 @@
 [submodule "whisker"]
 	path = whisker
 	url = https://github.com/edwindj/whisker
+[submodule "xmlwriter"]
+	path = xmlwriter
+	url = https://github.com/edwindj/xmlwriter

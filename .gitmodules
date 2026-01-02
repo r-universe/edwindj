@@ -37,6 +37,9 @@
 [submodule "errorlocate"]
 	path = errorlocate
 	url = https://github.com/data-cleaning/errorlocate
+[submodule "ffbase"]
+	path = ffbase
+	url = https://github.com/edwindj/ffbase
 [submodule "nlgeocoder"]
 	path = nlgeocoder
 	url = https://github.com/uRosConf/nlgeocoder

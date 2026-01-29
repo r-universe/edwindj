@@ -1,9 +1,0 @@
-[
-  {
-    "package": "dcmodify",
-    "url": "https://github.com/data-cleaning/dcmodify",
-    "via": ["dcmodifydt"],
-    "subdir": "pkg",
-    "from": "dcmodifydt"
-  }
-]

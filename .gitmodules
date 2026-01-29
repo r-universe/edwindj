@@ -17,11 +17,6 @@
 [submodule "daff"]
 	path = daff
 	url = https://github.com/edwindj/daff
-[submodule "dcmodify"]
-	path = dcmodify
-	url = https://github.com/data-cleaning/dcmodify
-	subdir = pkg
-	registered = false
 [submodule "dcmodifydb"]
 	path = dcmodifydb
 	url = https://github.com/data-cleaning/dcmodifydb
